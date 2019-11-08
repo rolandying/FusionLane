@@ -1,3 +1,4 @@
 # FusionLane
-The source code of paper FusionLane./n
-under construction O(∩_∩)O
+The source code of paper FusionLane.
+
+Under construction ~ O(∩_∩)O
