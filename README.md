@@ -21,4 +21,4 @@ python  train.py -- data_dir TFRECORD_DATA_DIR \
 You can evaluate you model in the same way as the training. Our model is available at [here](https://drive.google.com/open?id=1Cab7cuS_HfSpzQGR5SrWdyGZz5oxsgvl).
 
 -----
-under construction O(∩_∩)O
+The rests are still under construction... O(∩_∩)O
