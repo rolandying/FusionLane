@@ -1,5 +1,5 @@
 # FusionLane: 
-This is the source code of paper FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks. The source code of this project is modified based on [deeplabV3+](https://github.com/rishizek/tensorflow-deeplab-v3-plus).
+This is the source code of paper [*FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks*](https://arxiv.org/abs/2003.04404). The source code of this project is modified based on [deeplabV3+](https://github.com/rishizek/tensorflow-deeplab-v3-plus).
 
 ## Setup
 Requirements:
